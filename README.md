@@ -12,3 +12,5 @@ Worklog:
 01/04/2021
 - researching backend to go with the react frontend
 - thinking of mobile designs for the UI
+01/07/2021
+- usnig node js , firebase

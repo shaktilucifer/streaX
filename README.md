@@ -14,3 +14,4 @@ Worklog:
 - thinking of mobile designs for the UI
 01/07/2021
 - usnig node js , firebase
+- build streak grid as a standalone component. Can be used with erudite 
